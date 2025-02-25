@@ -1,8 +1,8 @@
-## Hello there, I'm Daniel 👋🏼
+## Hello, I'm Daniel 👋🏼
 
 - 👨🏼‍💻 iOS Developer
-- 🔭 I’m currently working on an image filter app
-- 🌱 I’m currently learning image color filter algorithms
+- 🔭 I’m currently working on a stocks portolio app
+- 🌱 I’m currently learning stock chart calculation 
 - 👯 I’m looking to collaborate on iOS projects
 - ⚡️ Fun fact: Spaghetto is the signular form of Spaghetti
 
