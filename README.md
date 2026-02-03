@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on iOS projects
 - ⚡️ Fun fact: Spaghetto is the signular form of Spaghetti
 
----
-
 <!--
 **Hebrasco/Hebrasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
